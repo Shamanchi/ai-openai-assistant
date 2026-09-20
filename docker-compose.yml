@@ -1,0 +1,17 @@
+﻿version: '3.8'
+
+services:
+  app:
+    build: .
+    container_name: ai-openai-assistant
+    environment:
+      - OPENAI_API_KEY=\
+      - OPENAI_MODEL=\
+      - OPENAI_TEMPERATURE=\
+      - MAX_TOKENS=\
+      - FUNCTION_CALLING=\
+      - DATABASE_URL=\
+      - LOG_LEVEL=\
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped

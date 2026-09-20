@@ -1,10 +1,10 @@
-﻿# AI OpenAI Assistant
+# AI OpenAI Assistant
 
 **AI-ассистент с function calling**
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://python.org)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai)](https://openai.com)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![License](https://img.shields.io/badge/License-Shamanchi-green)](LICENSE)
 
 ---
 
@@ -87,8 +87,7 @@ GitHub Actions: Ruff, MyPy, Pytest, Docker build
 ---
 
 ## Лицензия
-MIT
-
+Лицензия Shamanchi 1.0 (source-available) — см. [LICENSE](LICENSE).
 ---
 
 > Источник темы: Каталог портфолио, запись ai-openai-assistant
